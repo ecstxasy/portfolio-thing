@@ -11,7 +11,7 @@ git add .
 
 REM Commit changes with a message
 echo Committing changes...
-git commit -m "Update website"
+git commit -m "hi"
 
 REM Push changes to GitHub
 echo Pushing changes to GitHub...
